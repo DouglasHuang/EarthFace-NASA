@@ -1,6 +1,10 @@
+@media (max-width: 768px) {
+
+}
+
 * {
     font-family: "Raleway";
-    /*color: #FFFFFF;*/
+    /* color: #FFFFFF; */
 }
 
 html, body, div {
@@ -11,13 +15,21 @@ html, body, div {
 body {
     max-width: 100%;
     text-align: center;
-    /*background-image: url("../images/spacesky.jpeg")*/
+    /* background-image: url("../images/1.jpg") */
 }
 
-.container-main, .container-button, .container-map {
+.container-main, .container-description, .container-button, .container-map {
     margin: auto;
     height: 100%;
     width: 100%;
+}
+
+.container-main {
+    background-color: #282828;
+    /* background: rgb(34,34,34);
+    background: rgba(34,34,34,0.75); */
+    color: #FFFFFF;
+    /* position: fixed; */
 }
 
 .jumbotron {
@@ -27,29 +39,53 @@ body {
     background: none;
     max-width: 84em;
     padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+.container-description {
+    max-width: 70em;
+    padding-top: 4em;
+    padding-left: 1em;
+}
+
+.container-description a:hover, .container-description a:visited, .container-description a:active, .container-description a:link { 
+    text-decoration: none; 
+    border-bottom: none; 
+    color: #009fff; 
+}
+
+.container-description a { 
+    color: #009fff; opacity: 1; 
+    transition: opacity .15s ease-in-out; 
+    -moz-transition: opacity .15s ease-in-out; 
+    -webkit-transition: opacity .15s ease-in-out; 
+}
+
+.container-description a:hover { 
+    opacity: 0.5; 
 }
 
 .container-button {
-    max-width: 50em;
-    padding-bottom: 2em;
+    max-width: 65em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    /* background-image: url("../images/metal-grid.jpg"); */
 }
 
 .container-map {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0.03);
-    border: 2px solid black;
     height: 40em;
-    max-width: 80em;
+    max-width: 75em;
+    padding-top: 2em;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
 }
 .heatmap {
     height: 100%;
     width: 100%;
+    border: 2px solid black;
 }
 
-.btn {
-    background: none repeat scroll 0 0 #ec1e1e;
-    border: medium none;
-    color: white;
-    cursor: pointer;
-    margin-left: 5px;
-    padding: 10px;
+.copyright {
+    padding-top: 2em;
 }
