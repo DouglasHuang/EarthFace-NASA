@@ -34,8 +34,8 @@
 
         var cfg = {
           // radius should be small ONLY if scaleRadius is true (or small radius is intended)
-          "radius": .5,
-          "maxOpacity": 1, 
+          "radius": 1.0,
+          "maxOpacity": 0, 
           // scales the radius based on map zoom
           "scaleRadius": true, 
           // if set to false the heatmap uses the global maximum for colorization
@@ -54,8 +54,8 @@
         var heatmapLayer = new HeatmapOverlay(cfg);
 
         var map = new L.Map('map-canvas', {
-          center: new L.LatLng(25.6586, -80.3568),
-          zoom: 4,
+          center: new L.LatLng(25.6586, -70.3568),
+          zoom: 5,
           layers: [baseLayer, heatmapLayer]
         });
 
@@ -81,7 +81,7 @@
 		      {
 		        rawData[i].latitude = parseFloat(rawData[i].latitude);
 		        rawData[i].longitude = parseFloat(rawData[i].longitude); 
-		        goodData2.data.push(rawData[i]);          
+			        goodData2.data.push(rawData[i]);          
 		      };
 		    };
 	     });
