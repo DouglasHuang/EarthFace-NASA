@@ -1,0 +1,55 @@
+* {
+    font-family: "Raleway";
+    /*color: #FFFFFF;*/
+}
+
+html, body, div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 100%;
+    text-align: center;
+    /*background-image: url("../images/spacesky.jpeg")*/
+}
+
+.container-main, .container-button, .container-map {
+    margin: auto;
+    height: 100%;
+    width: 100%;
+}
+
+.jumbotron {
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    background: none;
+    max-width: 84em;
+    padding-bottom: 0.5em;
+}
+
+.container-button {
+    max-width: 50em;
+    padding-bottom: 2em;
+}
+
+.container-map {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.03);
+    border: 2px solid black;
+    height: 40em;
+    max-width: 80em;
+}
+.heatmap {
+    height: 100%;
+    width: 100%;
+}
+
+.btn {
+    background: none repeat scroll 0 0 #ec1e1e;
+    border: medium none;
+    color: white;
+    cursor: pointer;
+    margin-left: 5px;
+    padding: 10px;
+}

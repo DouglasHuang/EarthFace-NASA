@@ -1,0 +1,1607 @@
+[
+{
+"latitude": "48.5", 
+"longitude": "26.5", 
+"value": "0.2323495"
+}, 
+{
+"latitude": "44.5", 
+"longitude": "39.5", 
+"value": "5.159391"
+}, 
+{
+"latitude": "37.5", 
+"longitude": "-95.5", 
+"value": "0.25905132"
+}, 
+{
+"latitude": "37.5", 
+"longitude": "33.5", 
+"value": "3.2494588"
+}, 
+{
+"latitude": "36.5", 
+"longitude": "-119.5", 
+"value": "1.3610004"
+}, 
+{
+"latitude": "34.5", 
+"longitude": "-115.5", 
+"value": "0.313374"
+}, 
+{
+"latitude": "34.5", 
+"longitude": "133.5", 
+"value": "1.6464003"
+}, 
+{
+"latitude": "31.5", 
+"longitude": "-104.5", 
+"value": "1.8356062"
+}, 
+{
+"latitude": "31.5", 
+"longitude": "-88.5", 
+"value": "0.3790881"
+}, 
+{
+"latitude": "31.5", 
+"longitude": "47.5", 
+"value": "2.409294"
+}, 
+{
+"latitude": "30.5", 
+"longitude": "-83.5", 
+"value": "0.2323495"
+}, 
+{
+"latitude": "30.5", 
+"longitude": "19.5", 
+"value": "0.3493873"
+}, 
+{
+"latitude": "30.5", 
+"longitude": "47.5", 
+"value": "8.417766"
+}, 
+{
+"latitude": "30.5", 
+"longitude": "50.5", 
+"value": "1.1560913"
+}, 
+{
+"latitude": "30.5", 
+"longitude": "117.5", 
+"value": "0.2967843"
+}, 
+{
+"latitude": "29.5", 
+"longitude": "117.5", 
+"value": "0.95568544"
+}, 
+{
+"latitude": "28.5", 
+"longitude": "80.5", 
+"value": "0.3049664"
+}, 
+{
+"latitude": "27.5", 
+"longitude": "52.5", 
+"value": "6.073857"
+}, 
+{
+"latitude": "27.5", 
+"longitude": "115.5", 
+"value": "1.0948889"
+}, 
+{
+"latitude": "26.5", 
+"longitude": "-98.5", 
+"value": "0.8808093"
+}, 
+{
+"latitude": "26.5", 
+"longitude": "100.5", 
+"value": "1.2889504"
+}, 
+{
+"latitude": "25.5", 
+"longitude": "68.5", 
+"value": "5.910899"
+}, 
+{
+"latitude": "25.5", 
+"longitude": "97.5", 
+"value": "0.5857557"
+}, 
+{
+"latitude": "25.5", 
+"longitude": "105.5", 
+"value": "0.67107594"
+}, 
+{
+"latitude": "24.5", 
+"longitude": "109.5", 
+"value": "0.47122502"
+}, 
+{
+"latitude": "23.5", 
+"longitude": "93.5", 
+"value": "0.313374"
+}, 
+{
+"latitude": "23.5", 
+"longitude": "95.5", 
+"value": "0.17227429"
+}, 
+{
+"latitude": "23.5", 
+"longitude": "96.5", 
+"value": "0.3049664"
+}, 
+{
+"latitude": "23.5", 
+"longitude": "107.5", 
+"value": "0.21414536"
+}, 
+{
+"latitude": "22.5", 
+"longitude": "-80.5", 
+"value": "1.0091065"
+}, 
+{
+"latitude": "22.5", 
+"longitude": "-79.5", 
+"value": "0.7481966"
+}, 
+{
+"latitude": "22.5", 
+"longitude": "95.5", 
+"value": "0.17702374"
+}, 
+{
+"latitude": "22.5", 
+"longitude": "96.5", 
+"value": "2.2205303"
+}, 
+{
+"latitude": "21.5", 
+"longitude": "-78.5", 
+"value": "3.6228898"
+}, 
+{
+"latitude": "21.5", 
+"longitude": "96.5", 
+"value": "0.4226533"
+}, 
+{
+"latitude": "21.5", 
+"longitude": "99.5", 
+"value": "0.16315426"
+}, 
+{
+"latitude": "21.5", 
+"longitude": "103.5", 
+"value": "1.6022283"
+}, 
+{
+"latitude": "20.5", 
+"longitude": "82.5", 
+"value": "0.95568544"
+}, 
+{
+"latitude": "20.5", 
+"longitude": "94.5", 
+"value": "0.4226533"
+}, 
+{
+"latitude": "20.5", 
+"longitude": "100.5", 
+"value": "0.28882176"
+}, 
+{
+"latitude": "19.5", 
+"longitude": "-96.5", 
+"value": "2.7602274"
+}, 
+{
+"latitude": "19.5", 
+"longitude": "-72.5", 
+"value": "0.41131374"
+}, 
+{
+"latitude": "19.5", 
+"longitude": "73.5", 
+"value": "1.0948889"
+}, 
+{
+"latitude": "19.5", 
+"longitude": "75.5", 
+"value": "0.8808093"
+}, 
+{
+"latitude": "19.5", 
+"longitude": "76.5", 
+"value": "3.6228898"
+}, 
+{
+"latitude": "19.5", 
+"longitude": "82.5", 
+"value": "0.43430546"
+}, 
+{
+"latitude": "19.5", 
+"longitude": "95.5", 
+"value": "3.5256898"
+}, 
+{
+"latitude": "19.5", 
+"longitude": "97.5", 
+"value": "2.3446538"
+}, 
+{
+"latitude": "19.5", 
+"longitude": "98.5", 
+"value": "1.9382133"
+}, 
+{
+"latitude": "18.5", 
+"longitude": "-96.5", 
+"value": "2.9145193"
+}, 
+{
+"latitude": "18.5", 
+"longitude": "74.5", 
+"value": "2.046556"
+}, 
+{
+"latitude": "18.5", 
+"longitude": "80.5", 
+"value": "7.972138"
+}, 
+{
+"latitude": "18.5", 
+"longitude": "97.5", 
+"value": "0.14633706"
+}, 
+{
+"latitude": "18.5", 
+"longitude": "98.5", 
+"value": "0.79001945"
+}, 
+{
+"latitude": "18.5", 
+"longitude": "99.5", 
+"value": "2.2817483"
+}, 
+{
+"latitude": "18.5", 
+"longitude": "100.5", 
+"value": "0.21414536"
+}, 
+{
+"latitude": "18.5", 
+"longitude": "103.5", 
+"value": "5.597982"
+}, 
+{
+"latitude": "17.5", 
+"longitude": "81.5", 
+"value": "0.93004495"
+}, 
+{
+"latitude": "17.5", 
+"longitude": "82.5", 
+"value": "0.8571777"
+}, 
+{
+"latitude": "17.5", 
+"longitude": "99.5", 
+"value": "0.26619312"
+}, 
+{
+"latitude": "17.5", 
+"longitude": "102.5", 
+"value": "0.20839997"
+}, 
+{
+"latitude": "17.5", 
+"longitude": "121.5", 
+"value": "0.60190445"
+}, 
+{
+"latitude": "16.5", 
+"longitude": "75.5", 
+"value": "1.9382133"
+}, 
+{
+"latitude": "16.5", 
+"longitude": "80.5", 
+"value": "0.40027845"
+}, 
+{
+"latitude": "16.5", 
+"longitude": "94.5", 
+"value": "0.93004495"
+}, 
+{
+"latitude": "16.5", 
+"longitude": "103.5", 
+"value": "0.7481966"
+}, 
+{
+"latitude": "16.5", 
+"longitude": "104.5", 
+"value": "0.40027845"
+}, 
+{
+"latitude": "16.5", 
+"longitude": "105.5", 
+"value": "7.972138"
+}, 
+{
+"latitude": "15.5", 
+"longitude": "35.5", 
+"value": "1.4766968"
+}, 
+{
+"latitude": "15.5", 
+"longitude": "100.5", 
+"value": "2.1609547"
+}, 
+{
+"latitude": "15.5", 
+"longitude": "103.5", 
+"value": "2.8363245"
+}, 
+{
+"latitude": "15.5", 
+"longitude": "108.5", 
+"value": "1.125074"
+}, 
+{
+"latitude": "14.5", 
+"longitude": "-91.5", 
+"value": "0.76882374"
+}, 
+{
+"latitude": "14.5", 
+"longitude": "38.5", 
+"value": "0.13859013"
+}, 
+{
+"latitude": "14.5", 
+"longitude": "99.5", 
+"value": "0.9050924"
+}, 
+{
+"latitude": "14.5", 
+"longitude": "100.5", 
+"value": "0.8117996"
+}, 
+{
+"latitude": "13.5", 
+"longitude": "-15.5", 
+"value": "0.60190445"
+}, 
+{
+"latitude": "13.5", 
+"longitude": "-14.5", 
+"value": "0.3400134"
+}, 
+{
+"latitude": "13.5", 
+"longitude": "77.5", 
+"value": "0.8808093"
+}, 
+{
+"latitude": "13.5", 
+"longitude": "102.5", 
+"value": "2.2817483"
+}, 
+{
+"latitude": "13.5", 
+"longitude": "103.5", 
+"value": "1.0369266"
+}, 
+{
+"latitude": "13.5", 
+"longitude": "104.5", 
+"value": "2.4757159"
+}, 
+{
+"latitude": "13.5", 
+"longitude": "105.5", 
+"value": "0.20839997"
+}, 
+{
+"latitude": "13.5", 
+"longitude": "106.5", 
+"value": "19.03389"
+}, 
+{
+"latitude": "13.5", 
+"longitude": "107.5", 
+"value": "3.9308655"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "-14.5", 
+"value": "2.4757159"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "-12.5", 
+"value": "0.8808093"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "-11.5", 
+"value": "3.1622777"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "-9.5", 
+"value": "0.35901955"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "-8.5", 
+"value": "4.627584"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "23.5", 
+"value": "1.4370779"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "30.5", 
+"value": "2.8363245"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "35.5", 
+"value": "19.03389"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "77.5", 
+"value": "0.3790881"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "106.5", 
+"value": "3.3390434"
+}, 
+{
+"latitude": "12.5", 
+"longitude": "107.5", 
+"value": "29.410604"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "-14.5", 
+"value": "20.65193"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "-12.5", 
+"value": "9.909757"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "-10.5", 
+"value": "7.550101"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "-9.5", 
+"value": "0.45858234"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "-5.5", 
+"value": "0.3790881"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "-4.5", 
+"value": "0.19736747"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "-3.5", 
+"value": "0.25905132"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "-1.5", 
+"value": "0.18691903"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "0.5", 
+"value": "1.4370779"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "1.5", 
+"value": "0.8808093"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "5.5", 
+"value": "1.6022283"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "13.5", 
+"value": "11.987819"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "20.5", 
+"value": "0.8808093"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "30.5", 
+"value": "2.8363245"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "31.5", 
+"value": "1.4766968"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "36.5", 
+"value": "0.8808093"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "41.5", 
+"value": "7.75825"
+}, 
+{
+"latitude": "11.5", 
+"longitude": "104.5", 
+"value": "0.3790881"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "-85.5", 
+"value": "16.613932"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "-69.5", 
+"value": "0.9050924"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "-10.5", 
+"value": "9.385144"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "-9.5", 
+"value": "1.8356062"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "-8.5", 
+"value": "0.67107594"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "-4.5", 
+"value": "0.5700402"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "-1.5", 
+"value": "0.15037143"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "2.5", 
+"value": "0.19207223"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "3.5", 
+"value": "0.28882176"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "5.5", 
+"value": "2.1609547"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "6.5", 
+"value": "0.65307134"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "10.5", 
+"value": "0.8571777"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "16.5", 
+"value": "0.3400134"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "17.5", 
+"value": "2.7602274"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "18.5", 
+"value": "1.125074"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "19.5", 
+"value": "6.073857"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "21.5", 
+"value": "0.27353182"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "22.5", 
+"value": "0.8117996"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "24.5", 
+"value": "0.3049664"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "28.5", 
+"value": "6.073857"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "30.5", 
+"value": "0.19207223"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "32.5", 
+"value": "1.2889504"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "35.5", 
+"value": "43.038612"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "36.5", 
+"value": "17.071962"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "76.5", 
+"value": "0.3689174"
+}, 
+{
+"latitude": "10.5", 
+"longitude": "98.5", 
+"value": "0.3689174"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-63.5", 
+"value": "0.3049664"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-12.5", 
+"value": "4.039236"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-11.5", 
+"value": "0.3689174"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-10.5", 
+"value": "2.8363245"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-9.5", 
+"value": "0.28107285"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-8.5", 
+"value": "2.6141038"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-7.5", 
+"value": "0.3493873"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-6.5", 
+"value": "2.6141038"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-2.5", 
+"value": "0.5112831"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-1.5", 
+"value": "6.2413077"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "-0.5", 
+"value": "0.20280871"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "0.5", 
+"value": "2.1029775"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "8.5", 
+"value": "0.5253787"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "9.5", 
+"value": "0.43430546"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "10.5", 
+"value": "3.0774357"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "16.5", 
+"value": "2.9145193"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "17.5", 
+"value": "0.25210112"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "20.5", 
+"value": "3.2494588"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "23.5", 
+"value": "0.9050924"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "24.5", 
+"value": "0.49756566"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "28.5", 
+"value": "1.3610004"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "29.5", 
+"value": "2.543969"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "33.5", 
+"value": "11.987819"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "34.5", 
+"value": "0.14241092"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "36.5", 
+"value": "2.6141038"
+}, 
+{
+"latitude": "9.5", 
+"longitude": "37.5", 
+"value": "0.65307134"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "-80.5", 
+"value": "2.1609547"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "-74.5", 
+"value": "2.2817483"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "-65.5", 
+"value": "0.6184984"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "-7.5", 
+"value": "0.7085878"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "-3.5", 
+"value": "1.9916481"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "-1.5", 
+"value": "2.046556"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "1.5", 
+"value": "6.7718706"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "3.5", 
+"value": "0.13487183"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "11.5", 
+"value": "0.16765228"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "12.5", 
+"value": "0.23875515"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "14.5", 
+"value": "3.7227695"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "15.5", 
+"value": "0.8571777"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "16.5", 
+"value": "0.45858234"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "19.5", 
+"value": "0.68957686"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "21.5", 
+"value": "1.0091065"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "26.5", 
+"value": "0.3689174"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "27.5", 
+"value": "4.503429"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "28.5", 
+"value": "0.3689174"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "31.5", 
+"value": "3.4310975"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "33.5", 
+"value": "39.66662"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "34.5", 
+"value": "5.752313"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "35.5", 
+"value": "4.265022"
+}, 
+{
+"latitude": "8.5", 
+"longitude": "98.5", 
+"value": "0.20839997"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "-63.5", 
+"value": "0.76882374"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "-61.5", 
+"value": "1.517408"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "-5.5", 
+"value": "0.76882374"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "-3.5", 
+"value": "1.0091065"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "-0.5", 
+"value": "0.32201347"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "10.5", 
+"value": "4.627584"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "11.5", 
+"value": "0.8117996"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "13.5", 
+"value": "0.76882374"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "14.5", 
+"value": "3.0774357"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "15.5", 
+"value": "3.6228898"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "17.5", 
+"value": "4.503429"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "18.5", 
+"value": "0.8571777"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "19.5", 
+"value": "1.1560913"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "20.5", 
+"value": "1.0948889"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "21.5", 
+"value": "3.7227695"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "22.5", 
+"value": "1.125074"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "23.5", 
+"value": "0.3689174"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "26.5", 
+"value": "0.16765228"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "27.5", 
+"value": "3.8254027"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "28.5", 
+"value": "1.0655137"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "29.5", 
+"value": "1.398522"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "31.5", 
+"value": "7.550101"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "33.5", 
+"value": "49.307545"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "34.5", 
+"value": "5.910899"
+}, 
+{
+"latitude": "7.5", 
+"longitude": "35.5", 
+"value": "0.3689174"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "-68.5", 
+"value": "2.99487"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "-4.5", 
+"value": "0.3689174"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "8.5", 
+"value": "1.7384311"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "12.5", 
+"value": "0.47122502"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "16.5", 
+"value": "9.643884"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "17.5", 
+"value": "2.2817483"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "18.5", 
+"value": "0.20280871"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "19.5", 
+"value": "1.9916481"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "21.5", 
+"value": "0.5700402"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "22.5", 
+"value": "1.9382133"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "23.5", 
+"value": "3.3390434"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "24.5", 
+"value": "0.2967843"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "26.5", 
+"value": "0.23875515"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "27.5", 
+"value": "0.15037143"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "29.5", 
+"value": "0.5700402"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "33.5", 
+"value": "7.150406"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "34.5", 
+"value": "1.2207147"
+}, 
+{
+"latitude": "6.5", 
+"longitude": "36.5", 
+"value": "0.3689174"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "-72.5", 
+"value": "3.1622777"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "-71.5", 
+"value": "1.7384311"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "-69.5", 
+"value": "0.9050924"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "12.5", 
+"value": "0.17702374"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "18.5", 
+"value": "0.65307134"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "20.5", 
+"value": "0.68957686"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "22.5", 
+"value": "3.6228898"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "23.5", 
+"value": "2.6141038"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "25.5", 
+"value": "0.19736747"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "26.5", 
+"value": "0.19207223"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "29.5", 
+"value": "4.265022"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "30.5", 
+"value": "0.25210112"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "31.5", 
+"value": "1.2207147"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "32.5", 
+"value": "3.4310975"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "33.5", 
+"value": "3.0774357"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "36.5", 
+"value": "0.313374"
+}, 
+{
+"latitude": "5.5", 
+"longitude": "115.5", 
+"value": "0.72812295"
+}, 
+{
+"latitude": "4.5", 
+"longitude": "-72.5", 
+"value": "3.0774357"
+}, 
+{
+"latitude": "4.5", 
+"longitude": "-71.5", 
+"value": "0.19207223"
+}, 
+{
+"latitude": "4.5", 
+"longitude": "21.5", 
+"value": "0.8341801"
+}, 
+{
+"latitude": "4.5", 
+"longitude": "26.5", 
+"value": "2.8363245"
+}, 
+{
+"latitude": "4.5", 
+"longitude": "29.5", 
+"value": "11.048595"
+}, 
+{
+"latitude": "4.5", 
+"longitude": "32.5", 
+"value": "1.3610004"
+}, 
+{
+"latitude": "4.5", 
+"longitude": "33.5", 
+"value": "3.6228898"
+}, 
+{
+"latitude": "3.5", 
+"longitude": "29.5", 
+"value": "3.4310975"
+}, 
+{
+"latitude": "3.5", 
+"longitude": "31.5", 
+"value": "0.79001945"
+}, 
+{
+"latitude": "3.5", 
+"longitude": "32.5", 
+"value": "1.9916481"
+}, 
+{
+"latitude": "3.5", 
+"longitude": "33.5", 
+"value": "1.517408"
+}, 
+{
+"latitude": "2.5", 
+"longitude": "31.5", 
+"value": "5.752313"
+}, 
+{
+"latitude": "2.5", 
+"longitude": "33.5", 
+"value": "4.265022"
+}, 
+{
+"latitude": "2.5", 
+"longitude": "34.5", 
+"value": "2.99487"
+}, 
+{
+"latitude": "1.5", 
+"longitude": "-74.5", 
+"value": "0.63554984"
+}, 
+{
+"latitude": "1.5", 
+"longitude": "101.5", 
+"value": "3.1622777"
+}, 
+{
+"latitude": "1.5", 
+"longitude": "127.5", 
+"value": "0.47122502"
+}, 
+{
+"latitude": "0.5", 
+"longitude": "-60.5", 
+"value": "3.2494588"
+}, 
+{
+"latitude": "0.5", 
+"longitude": "30.5", 
+"value": "0.8341801"
+}, 
+{
+"latitude": "-0.5", 
+"longitude": "15.5", 
+"value": "0.8341801"
+}, 
+{
+"latitude": "-3.5", 
+"longitude": "37.5", 
+"value": "0.44627884"
+}, 
+{
+"latitude": "-4.5", 
+"longitude": "16.5", 
+"value": "4.8862576"
+}, 
+{
+"latitude": "-4.5", 
+"longitude": "31.5", 
+"value": "1.2889504"
+}, 
+{
+"latitude": "-6.5", 
+"longitude": "14.5", 
+"value": "0.3400134"
+}, 
+{
+"latitude": "-7.5", 
+"longitude": "112.5", 
+"value": "3.4310975"
+}, 
+{
+"latitude": "-8.5", 
+"longitude": "123.5", 
+"value": "1.1560913"
+}, 
+{
+"latitude": "-10.5", 
+"longitude": "-56.5", 
+"value": "0.32201347"
+}, 
+{
+"latitude": "-11.5", 
+"longitude": "-49.5", 
+"value": "0.3790881"
+}, 
+{
+"latitude": "-11.5", 
+"longitude": "-43.5", 
+"value": "0.5253787"
+}, 
+{
+"latitude": "-13.5", 
+"longitude": "-60.5", 
+"value": "5.4477916"
+}, 
+{
+"latitude": "-13.5", 
+"longitude": "-57.5", 
+"value": "0.14241092"
+}, 
+{
+"latitude": "-13.5", 
+"longitude": "-53.5", 
+"value": "1.3610004"
+}, 
+{
+"latitude": "-13.5", 
+"longitude": "-39.5", 
+"value": "0.3493873"
+}, 
+{
+"latitude": "-13.5", 
+"longitude": "130.5", 
+"value": "2.2817483"
+}, 
+{
+"latitude": "-14.5", 
+"longitude": "-47.5", 
+"value": "0.25905132"
+}, 
+{
+"latitude": "-15.5", 
+"longitude": "-41.5", 
+"value": "0.28882176"
+}, 
+{
+"latitude": "-15.5", 
+"longitude": "27.5", 
+"value": "0.3895392"
+}, 
+{
+"latitude": "-17.5", 
+"longitude": "-57.5", 
+"value": "0.35901955"
+}, 
+{
+"latitude": "-17.5", 
+"longitude": "-47.5", 
+"value": "0.40027845"
+}, 
+{
+"latitude": "-17.5", 
+"longitude": "-39.5", 
+"value": "0.6184984"
+}, 
+{
+"latitude": "-17.5", 
+"longitude": "24.5", 
+"value": "0.7481966"
+}, 
+{
+"latitude": "-17.5", 
+"longitude": "128.5", 
+"value": "6.413375"
+}, 
+{
+"latitude": "-18.5", 
+"longitude": "-56.5", 
+"value": "0.95568544"
+}, 
+{
+"latitude": "-19.5", 
+"longitude": "-57.5", 
+"value": "0.15877692"
+}, 
+{
+"latitude": "-19.5", 
+"longitude": "22.5", 
+"value": "47.984653"
+}, 
+{
+"latitude": "-20.5", 
+"longitude": "-51.5", 
+"value": "0.9820328"
+}, 
+{
+"latitude": "-20.5", 
+"longitude": "-40.5", 
+"value": "7.550101"
+}, 
+{
+"latitude": "-20.5", 
+"longitude": "118.5", 
+"value": "4.3826046"
+}, 
+{
+"latitude": "-21.5", 
+"longitude": "-61.5", 
+"value": "0.95568544"
+}, 
+{
+"latitude": "-21.5", 
+"longitude": "116.5", 
+"value": "4.265022"
+}, 
+{
+"latitude": "-22.5", 
+"longitude": "-59.5", 
+"value": "0.93004495"
+}, 
+{
+"latitude": "-22.5", 
+"longitude": "-52.5", 
+"value": "0.7481966"
+}, 
+{
+"latitude": "-22.5", 
+"longitude": "-51.5", 
+"value": "0.43430546"
+}, 
+{
+"latitude": "-22.5", 
+"longitude": "148.5", 
+"value": "7.550101"
+}, 
+{
+"latitude": "-23.5", 
+"longitude": "-59.5", 
+"value": "3.5256898"
+}, 
+{
+"latitude": "-23.5", 
+"longitude": "-54.5", 
+"value": "0.49756566"
+}, 
+{
+"latitude": "-24.5", 
+"longitude": "-63.5", 
+"value": "2.1029775"
+}, 
+{
+"latitude": "-24.5", 
+"longitude": "-54.5", 
+"value": "0.76882374"
+}, 
+{
+"latitude": "-25.5", 
+"longitude": "26.5", 
+"value": "0.7481966"
+}, 
+{
+"latitude": "-25.5", 
+"longitude": "152.5", 
+"value": "0.18691903"
+}, 
+{
+"latitude": "-26.5", 
+"longitude": "-58.5", 
+"value": "0.22611569"
+}, 
+{
+"latitude": "-26.5", 
+"longitude": "151.5", 
+"value": "0.45858234"
+}, 
+{
+"latitude": "-27.5", 
+"longitude": "-59.5", 
+"value": "0.26619312"
+}, 
+{
+"latitude": "-27.5", 
+"longitude": "30.5", 
+"value": "3.7227695"
+}, 
+{
+"latitude": "-28.5", 
+"longitude": "149.5", 
+"value": "2.7602274"
+}, 
+{
+"latitude": "-31.5", 
+"longitude": "25.5", 
+"value": "1.9382133"
+}, 
+{
+"latitude": "-31.5", 
+"longitude": "117.5", 
+"value": "2.1609547"
+}, 
+{
+"latitude": "-35.5", 
+"longitude": "-71.5", 
+"value": "0.8341801"
+}, 
+{
+"latitude": "-37.5", 
+"longitude": "-73.5", 
+"value": "4.7551622"
+}, 
+{
+"latitude": "-38.5", 
+"longitude": "-73.5", 
+"value": "7.347536"
+}, 
+{
+"latitude": "-40.5", 
+"longitude": "-63.5", 
+"value": "3.3390434"
+}, 
+{
+"latitude": "-41.5", 
+"longitude": "146.5", 
+"value": "0.25210112"
+}
+]

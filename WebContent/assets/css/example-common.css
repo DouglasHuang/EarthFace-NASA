@@ -1,0 +1,44 @@
+html {
+    color: #333;
+    font-family: sans-serif;
+    font-size: 16pt;
+    font-weight: 100;
+    line-height: 1.5em;
+}
+h1, h2 {
+    text-align: center;
+}
+h2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.hot {
+    color: #ec1e1e;
+}
+.demo-wrapper {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.03);
+    border: 3px solid black;
+    height: 400px;
+}
+.heatmap {
+    height: 100%;
+    width: 100%;
+}
+.btn {
+    background: none repeat scroll 0 0 #ec1e1e;
+    border: medium none;
+    color: white;
+    cursor: pointer;
+    margin-left: 5px;
+    padding: 10px;
+}
+.trigger-refresh, .thankyou, .trigger-reconfig {
+    float: right;
+}
+.trigger-refresh, .trigger-reconfig {
+    margin-top: 10px;
+}
+.breadcrumb-trail {
+    margin-bottom: 10px;
+}

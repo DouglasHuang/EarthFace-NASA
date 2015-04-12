@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>EarthFace</title>
+  <link rel="icon" href="assets/images/earth.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index, follow" />
+  <meta name="description" content="EarthFace is a web application that lets you visualize any type of data geographically as a heat map"/>
+  <meta name="keywords" content="earthface" />
+  <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/3.3.2/css/bootstrap3/bootstrap-switch.min.css">
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+  <link rel="stylesheet" href="assets/css/main.css"/>
+  <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.4.11/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/3.3.2/js/bootstrap-switch.min.js"></script>
+</head>
+
+<body>
+  <div class = "container-main">
+    <div class = "jumbotron">
+        <h1><a href="https://2015.spaceappschallenge.org/" target="new" ><img src="assets/images/spaceapps-logo.png" alt="SPACE APPS"></a> EarthFace</h1>
+      <br>
+      <p class= "lead" align="center">See the different faces of Planet Earth and discover new insights into your environment.</p>
+    </div>
+  </div>
+
+	<div class = "container-button" id="overlay">
+    <div class = "row">
+      <div class="col-xs-3">
+        <div class="checkbox">
+          <h4>Fire</h4>
+          <input type="checkbox" id="check1" name="check1">
+        </div>
+      </div>
+      <div class="col-xs-3">
+        <div class="checkbox">
+          <h4>Air Quality</h4>
+          <input type="checkbox" id="check2" name="check2">
+        </div>
+      </div>
+      <div class="col-xs-3">
+        <div class="checkbox">
+          <h4>Water Vapor</h4>
+          <input type="checkbox" id="check3" name="check3">
+        </div>
+      </div>
+      <div class="col-xs-3">
+        <div class="checkbox">
+          <h4>Temperature</h4>
+          <input type="checkbox" id="check4" name="check4">
+        </div>
+      </div>
+    </div>
+    <script>
+      $("[name='check1']").bootstrapSwitch();
+      $("[name='check2']").bootstrapSwitch();
+      $("[name='check3']").bootstrapSwitch();
+      $("[name='check4']").bootstrapSwitch();
+    </script>
+	</div>
+
+  <div class="container-map">
+    <div class="heatmap" id="map-canvas"></div>
+  </div>
+
+  <p class="copyright">©Douglas Huang, Inez Huang, Joseph Huang 2015</p>
+  <script src="assets/js/heatmap.js"></script>
+  <script src="assets/js/leaflet-heatmap.js"></script>
+  <script src="assets/js/earthface.js"></script>
+</body>
+</html>
