@@ -23,8 +23,12 @@
  $('input[name="check3"]').on('switchChange.bootstrapSwitch', checkFunction);
  $('input[name="check4"]').on('switchChange.bootstrapSwitch', checkFunction);
 
-
-
+ function clearInsightPoints() {
+	 map.removeLayer(markers);
+	 markers = new L.FeatureGroup();
+	 map.addLayer(markers);
+ };
+ 
 	var baseLayer = L.tileLayer(
           'https://{s}.tiles.mapbox.com/v4/joseph-huang.lmh7gb5d/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoiam9zZXBoLWh1YW5nIiwiYSI6ImNaLW1yZUUifQ.JbB9bNqhVFNhSZNkfAtjkw#4/43.97/-79.25',{
             attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
@@ -127,7 +131,7 @@
 		        rawData[i].latitude = parseFloat(rawData[i].latitude);
 		        rawData[i].longitude = parseFloat(rawData[i].longitude); 
 		        // visualization scale factor
-		        var factor = 1000;
+		        var factor = 500;
 		        rawData[i].value = parseFloat(rawData[i].value) * factor; 		        
 		        goodData4.data.push(rawData[i]);          
 		      };
