@@ -16,6 +16,9 @@ Resources
  - [IBM Bluemix](https://console.ng.bluemix.net/)
 
 
-*Team Members:* Douglas Huang (front-end development), Inez Huang (research and data analysis), Joseph Huang (back-end development)
+**Team Members** 
+ - Douglas Huang (front-end development)
+ - Inez Huang (research and data analysis) 
+ - Joseph Huang (back-end development)
 
-*License:* MIT license (MIT)
+**License:** MIT license (MIT)
