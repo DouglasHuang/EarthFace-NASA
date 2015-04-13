@@ -144,6 +144,14 @@ var HeatmapOverlay = L.Class.extend({
   },
   // Customization for EarthFace project
   clearData: function() {
+      var latlng = new L.LatLng(0, 0);
+      var dataObj = { latlng: latlng };
+      dataObj.value = 0;
+	  this._data = [dataObj];
+	  this._draw();
+  },
+
+  clearData_old: function() {
 	    if (!this._map) { return; }
 	    
 	    var point = this._map.latLngToContainerPoint(this._origin);        
@@ -210,7 +218,18 @@ var HeatmapOverlay = L.Class.extend({
 	    this._heatmap.setData(generatedData);
 	  },
 
-	  removeData: function(data) {
+	  findPoint: function(pointArray, latitude, longitude) {
+		  
+		  for (var i = 0; i < pointArray.length; i++) {		   
+			  if (pointArray[i].latlng.lat == latitude
+			   && pointArray[i].latlng.lng == longitude) {
+				  return pointArray[i];
+			  }
+		  }
+		  return null;
+	},
+	  
+	  applyData: function(data, markers) {
 		    this._max = data.max || this._max;
 		    var latField = this.cfg.latField || 'lat';
 		    var lngField = this.cfg.lngField || 'lng';
@@ -223,15 +242,36 @@ var HeatmapOverlay = L.Class.extend({
 		  
 		    while (len--) {
 		      var entry = data[len];
-		      var latlng = new L.LatLng(entry[latField], entry[lngField]);
-		      var dataObj = { latlng: latlng };
-		      dataObj[valueField] = entry[valueField] * (-1);
-		      if (entry.radius) {
-		        dataObj.radius = entry.radius;
+		      var lat = entry[latField];
+		      var lng = entry[lngField];
+		      // find the same geo point in the current data
+		      var point = this.findPoint(this._data, lat, lng);
+		      if (point) {
+		    	  // apply the higher value to the existing point
+		    	  if (point[valueField] && entry[valueField]) {
+		    		  point[valueField] = parseFloat(point[valueField]) + parseFloat(entry[valueField]);
+		    		  if (parseFloat(point[valueField]) > 1.0) {
+		    			     // add a marker in the given location, attach some popup content to it and open the popup
+		    		        var marker = L.marker([lat, lng]);
+		    		        marker.bindPopup('<b>Potential Insight Point</b><br>A number of data sets yield a high value at this point.')
+		    		            .openPopup(); 
+		    		        markers.addLayer(marker);
+		    		  } 
+		    	  }
+			      if (entry.radius &&  point.radius < entry.radius) {
+				    	point.radius = entry.radius;
+			      }		    	  
 		      }
-		      d.push(dataObj);
+		      else {  // add a new point
+				      var latlng = new L.LatLng(entry[latField], entry[lngField]);
+				      var dataObj = { latlng: latlng };
+				      dataObj[valueField] = entry[valueField];
+				      if (entry.radius) {
+				        dataObj.radius = entry.radius;
+				      }
+				      this._data.push(dataObj);
+		      }
 		    }
-		    this._data = d;
 		  
 		    this._draw();
 		  },
