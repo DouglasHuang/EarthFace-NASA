@@ -18,18 +18,15 @@ body {
     /* background-image: url("../images/1.jpg") */
 }
 
-.container-main, .container-description, .container-button, .container-map {
+.container-header, .container-content, .container-description, .container-button, .container-map {
     margin: auto;
     height: 100%;
     width: 100%;
 }
 
-.container-main {
+.container-header {
     background-color: #282828;
-    /* background: rgb(34,34,34);
-    background: rgba(34,34,34,0.75); */
     color: #FFFFFF;
-    /* position: fixed; */
 }
 
 .jumbotron {
