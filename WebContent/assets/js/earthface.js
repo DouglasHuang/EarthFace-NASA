@@ -131,7 +131,7 @@
 		        rawData[i].latitude = parseFloat(rawData[i].latitude);
 		        rawData[i].longitude = parseFloat(rawData[i].longitude); 
 		        // visualization scale factor
-		        var factor = 500;
+		        var factor = 1;
 		        rawData[i].value = parseFloat(rawData[i].value) * factor; 		        
 		        goodData4.data.push(rawData[i]);          
 		      };
