@@ -32,7 +32,7 @@
     <p class= "lead" align="left" style="text-indent: 2em;"> 
       EarthFace is a tool for visualizing the presence of various phenomena in the world. Datasets from 
       <a href=http://neo.sci.gsfc.nasa.gov/ target="new">NASA Earth Observations</a>
-      are transformed into heatmaps to analyze the spread, abundance, and interactions of each. Use the buttons below to toggle the different layers of the heatmap and see the interplay of these factors that form Earth as we know it. For more information, see our 
+      are transformed into heatmaps to analyze the spread, abundance, and interactions of each. Use the buttons below to toggle the different layers of the heatmap and see the interplay of these factors that form Earth as we know it. Additionally, areas with high levels of interaction between different phenomena are marked with "Insight Points", indicating potential correlations and opportunities for further research. For more information, see our 
       <a href=https://github.com/DouglasHuang/EarthFace-NASA target="new">Github project page</a>
       and our 
        <a href=https://2015.spaceappschallenge.org/project/earthface/ target="new">Space Apps Challenge</a>
@@ -50,7 +50,7 @@
       </div>
       <div class="col-md-3">
         <div class="checkbox">
-          <h4>Air Quality</h4>
+          <h4>Carbon Monoxide</h4>
           <input type="checkbox" data-off-color="warning" id="check2" name="check2">
         </div>
       </div>
@@ -67,16 +67,10 @@
         </div>
       </div>
     </div>
-    <div class = "row">
-      <div class="col-md-3"></div>
-      <div class="col-md-3"></div>
-      <div class="col-md-3"></div>
-      <div class="col-md-3">
-        <div class="button">
-          <button type="button" class="btn btn-warning" onclick="clearInsightPoints()">Remove potential insight points</button>
-        </div>
-      </div>
-    </div>
+    
+    <br>
+    <button type="button" class="btn btn-warning" onclick="clearInsightPoints()">Remove Insight Points</button>
+
     <script>
       $("[name='check1']").bootstrapSwitch();
       $("[name='check2']").bootstrapSwitch();
