@@ -19,5 +19,3 @@ Team
  - Douglas Huang (front-end development)
  - Inez Huang (research and data analysis) 
  - Joseph Huang (back-end development)
-
-**License:** MIT license (MIT)
